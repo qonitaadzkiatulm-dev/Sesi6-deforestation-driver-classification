@@ -1,0 +1,13 @@
+                       precision    recall  f1-score   support
+
+pertanian_skala_kecil      0.755     0.820     0.786       150
+pertanian_skala_besar      0.826     0.760     0.792       150
+                jalan      0.834     0.807     0.820       150
+     logging_selektif      0.824     0.840     0.832       150
+              tambang      1.000     1.000     1.000       150
+            kebakaran      0.901     0.853     0.877       150
+               banjir      0.862     0.913     0.887       150
+
+             accuracy                          0.856      1050
+            macro avg      0.857     0.856     0.856      1050
+         weighted avg      0.857     0.856     0.856      1050

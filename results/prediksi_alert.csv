@@ -1,0 +1,1051 @@
+wilayah,bulan,driver_sebenarnya,driver_prediksi,keyakinan
+Amazon,8,kebakaran,kebakaran,0.947
+Kalimantan,7,jalan,jalan,0.91
+Kalimantan,1,pertanian_skala_besar,pertanian_skala_besar,0.951
+Kalimantan,11,tambang,tambang,1.0
+Amazon,11,tambang,tambang,1.0
+Cekungan Kongo,9,jalan,jalan,0.966
+Cekungan Kongo,5,logging_selektif,logging_selektif,0.976
+Cekungan Kongo,4,pertanian_skala_besar,pertanian_skala_besar,0.785
+Cekungan Kongo,1,jalan,logging_selektif,0.748
+Kalimantan,6,jalan,jalan,0.896
+Amazon,10,kebakaran,kebakaran,0.906
+Amazon,10,banjir,tidak_pasti,0.586
+Kalimantan,9,jalan,logging_selektif,0.745
+Kalimantan,4,pertanian_skala_kecil,pertanian_skala_kecil,0.726
+Amazon,12,tambang,tambang,0.996
+Cekungan Kongo,9,tambang,tambang,0.999
+Cekungan Kongo,4,banjir,banjir,0.763
+Amazon,10,jalan,jalan,0.711
+Cekungan Kongo,11,logging_selektif,logging_selektif,0.939
+Kalimantan,12,pertanian_skala_besar,tidak_pasti,0.498
+Amazon,9,logging_selektif,tidak_pasti,0.59
+Amazon,7,jalan,jalan,0.924
+Cekungan Kongo,10,logging_selektif,logging_selektif,0.781
+Kalimantan,5,pertanian_skala_kecil,pertanian_skala_besar,0.688
+Kalimantan,8,pertanian_skala_besar,tidak_pasti,0.594
+Cekungan Kongo,4,pertanian_skala_kecil,tidak_pasti,0.574
+Amazon,5,pertanian_skala_besar,pertanian_skala_besar,0.926
+Kalimantan,10,banjir,banjir,1.0
+Kalimantan,9,kebakaran,kebakaran,0.913
+Kalimantan,4,pertanian_skala_besar,pertanian_skala_kecil,0.601
+Amazon,12,pertanian_skala_besar,tidak_pasti,0.542
+Amazon,8,pertanian_skala_kecil,pertanian_skala_besar,0.614
+Kalimantan,10,pertanian_skala_besar,pertanian_skala_besar,0.857
+Amazon,9,kebakaran,kebakaran,0.998
+Kalimantan,5,jalan,jalan,0.965
+Cekungan Kongo,3,tambang,tambang,0.958
+Amazon,8,pertanian_skala_besar,pertanian_skala_besar,0.634
+Amazon,9,kebakaran,kebakaran,0.912
+Cekungan Kongo,6,pertanian_skala_kecil,jalan,0.742
+Kalimantan,6,logging_selektif,logging_selektif,0.936
+Kalimantan,12,pertanian_skala_kecil,pertanian_skala_kecil,0.764
+Amazon,8,kebakaran,kebakaran,0.979
+Kalimantan,7,tambang,tambang,0.999
+Cekungan Kongo,3,pertanian_skala_kecil,pertanian_skala_kecil,0.796
+Amazon,9,pertanian_skala_kecil,pertanian_skala_besar,0.854
+Kalimantan,5,pertanian_skala_kecil,tidak_pasti,0.539
+Amazon,3,jalan,jalan,0.86
+Cekungan Kongo,9,jalan,logging_selektif,0.626
+Cekungan Kongo,7,kebakaran,banjir,0.638
+Amazon,1,tambang,tambang,1.0
+Kalimantan,11,jalan,logging_selektif,0.608
+Kalimantan,5,jalan,jalan,0.748
+Kalimantan,3,tambang,tambang,0.949
+Amazon,8,kebakaran,kebakaran,0.964
+Amazon,8,banjir,kebakaran,0.93
+Amazon,11,pertanian_skala_kecil,tidak_pasti,0.582
+Kalimantan,5,jalan,tidak_pasti,0.568
+Amazon,10,kebakaran,kebakaran,0.825
+Amazon,7,logging_selektif,logging_selektif,0.972
+Amazon,9,kebakaran,kebakaran,0.965
+Kalimantan,12,logging_selektif,jalan,0.966
+Kalimantan,7,banjir,banjir,0.938
+Amazon,4,pertanian_skala_besar,pertanian_skala_kecil,0.605
+Amazon,1,pertanian_skala_besar,pertanian_skala_besar,0.869
+Amazon,2,jalan,jalan,0.965
+Amazon,12,pertanian_skala_besar,pertanian_skala_besar,0.958
+Kalimantan,11,pertanian_skala_kecil,pertanian_skala_besar,0.671
+Amazon,8,kebakaran,tidak_pasti,0.558
+Cekungan Kongo,10,banjir,banjir,0.999
+Amazon,10,banjir,banjir,0.996
+Amazon,8,kebakaran,tidak_pasti,0.53
+Amazon,2,pertanian_skala_besar,pertanian_skala_kecil,0.69
+Amazon,9,kebakaran,kebakaran,0.995
+Cekungan Kongo,11,banjir,banjir,0.999
+Cekungan Kongo,9,logging_selektif,logging_selektif,0.725
+Amazon,9,kebakaran,kebakaran,0.994
+Amazon,2,jalan,jalan,0.811
+Amazon,11,jalan,jalan,0.955
+Kalimantan,1,banjir,banjir,0.964
+Amazon,8,pertanian_skala_kecil,pertanian_skala_kecil,0.661
+Kalimantan,12,pertanian_skala_besar,tidak_pasti,0.517
+Cekungan Kongo,1,pertanian_skala_kecil,pertanian_skala_kecil,0.625
+Cekungan Kongo,9,kebakaran,kebakaran,0.912
+Kalimantan,10,banjir,banjir,0.996
+Amazon,2,tambang,tambang,0.999
+Amazon,9,kebakaran,kebakaran,0.825
+Cekungan Kongo,9,logging_selektif,tidak_pasti,0.518
+Cekungan Kongo,10,pertanian_skala_besar,pertanian_skala_besar,0.957
+Amazon,12,jalan,jalan,0.824
+Cekungan Kongo,11,banjir,banjir,0.936
+Amazon,11,tambang,tambang,0.999
+Kalimantan,8,tambang,tambang,0.953
+Kalimantan,12,logging_selektif,logging_selektif,0.737
+Cekungan Kongo,11,logging_selektif,logging_selektif,0.941
+Cekungan Kongo,8,kebakaran,banjir,0.619
+Amazon,5,pertanian_skala_kecil,pertanian_skala_kecil,0.711
+Kalimantan,3,logging_selektif,logging_selektif,0.89
+Amazon,6,pertanian_skala_besar,tidak_pasti,0.527
+Amazon,1,tambang,tambang,1.0
+Cekungan Kongo,3,pertanian_skala_kecil,pertanian_skala_kecil,0.613
+Kalimantan,3,kebakaran,tidak_pasti,0.533
+Amazon,3,pertanian_skala_besar,tidak_pasti,0.521
+Kalimantan,5,logging_selektif,jalan,0.604
+Amazon,10,tambang,tambang,0.998
+Amazon,4,tambang,tambang,1.0
+Kalimantan,9,logging_selektif,logging_selektif,0.752
+Amazon,11,tambang,tambang,0.998
+Amazon,9,banjir,banjir,0.617
+Cekungan Kongo,12,jalan,jalan,0.752
+Kalimantan,2,jalan,logging_selektif,0.71
+Cekungan Kongo,8,kebakaran,kebakaran,0.954
+Cekungan Kongo,2,pertanian_skala_kecil,pertanian_skala_kecil,0.628
+Cekungan Kongo,10,kebakaran,kebakaran,1.0
+Kalimantan,9,jalan,jalan,0.959
+Amazon,10,tambang,tambang,0.859
+Amazon,11,pertanian_skala_besar,tidak_pasti,0.553
+Kalimantan,11,tambang,tambang,0.996
+Amazon,11,pertanian_skala_besar,pertanian_skala_besar,0.978
+Amazon,9,kebakaran,banjir,0.892
+Cekungan Kongo,1,jalan,jalan,0.858
+Kalimantan,8,pertanian_skala_besar,tidak_pasti,0.549
+Kalimantan,7,tambang,tambang,1.0
+Amazon,9,pertanian_skala_kecil,pertanian_skala_besar,0.831
+Kalimantan,3,logging_selektif,tidak_pasti,0.598
+Kalimantan,3,pertanian_skala_besar,pertanian_skala_kecil,0.707
+Cekungan Kongo,6,tambang,tambang,1.0
+Amazon,11,pertanian_skala_kecil,pertanian_skala_kecil,0.738
+Kalimantan,7,jalan,jalan,0.837
+Kalimantan,12,logging_selektif,logging_selektif,0.768
+Cekungan Kongo,7,jalan,jalan,0.949
+Kalimantan,3,logging_selektif,tidak_pasti,0.543
+Kalimantan,10,tambang,tambang,0.985
+Cekungan Kongo,6,jalan,jalan,0.786
+Kalimantan,11,logging_selektif,logging_selektif,0.864
+Amazon,4,pertanian_skala_besar,tidak_pasti,0.582
+Amazon,7,pertanian_skala_besar,pertanian_skala_besar,0.773
+Kalimantan,2,banjir,banjir,0.923
+Cekungan Kongo,5,pertanian_skala_kecil,pertanian_skala_kecil,0.727
+Kalimantan,12,tambang,tambang,1.0
+Kalimantan,7,logging_selektif,logging_selektif,0.914
+Amazon,6,pertanian_skala_kecil,pertanian_skala_kecil,0.76
+Amazon,10,jalan,tidak_pasti,0.443
+Amazon,3,logging_selektif,logging_selektif,0.856
+Cekungan Kongo,1,banjir,banjir,0.961
+Kalimantan,9,jalan,jalan,0.873
+Cekungan Kongo,7,pertanian_skala_kecil,tidak_pasti,0.49
+Amazon,7,tambang,tambang,1.0
+Amazon,3,tambang,tambang,0.998
+Kalimantan,3,jalan,jalan,0.896
+Kalimantan,7,pertanian_skala_kecil,pertanian_skala_kecil,0.796
+Cekungan Kongo,6,pertanian_skala_kecil,tidak_pasti,0.599
+Kalimantan,2,banjir,banjir,0.646
+Amazon,8,kebakaran,tidak_pasti,0.564
+Kalimantan,1,tambang,tambang,0.999
+Amazon,4,banjir,banjir,0.935
+Kalimantan,10,banjir,banjir,0.987
+Cekungan Kongo,10,banjir,banjir,0.721
+Kalimantan,9,banjir,tidak_pasti,0.581
+Kalimantan,5,jalan,logging_selektif,0.604
+Amazon,10,kebakaran,banjir,0.635
+Kalimantan,12,pertanian_skala_kecil,pertanian_skala_kecil,0.687
+Amazon,7,kebakaran,kebakaran,0.96
+Cekungan Kongo,10,logging_selektif,logging_selektif,0.868
+Cekungan Kongo,8,kebakaran,kebakaran,0.946
+Kalimantan,7,pertanian_skala_besar,pertanian_skala_besar,0.732
+Amazon,9,kebakaran,tidak_pasti,0.536
+Kalimantan,7,pertanian_skala_kecil,pertanian_skala_kecil,0.712
+Cekungan Kongo,11,pertanian_skala_kecil,tidak_pasti,0.543
+Kalimantan,6,logging_selektif,logging_selektif,0.964
+Kalimantan,9,tambang,tambang,0.998
+Cekungan Kongo,2,pertanian_skala_kecil,pertanian_skala_kecil,0.775
+Kalimantan,11,tambang,tambang,1.0
+Amazon,8,kebakaran,kebakaran,0.983
+Amazon,1,pertanian_skala_besar,pertanian_skala_besar,0.922
+Cekungan Kongo,5,banjir,banjir,0.964
+Amazon,3,pertanian_skala_kecil,pertanian_skala_kecil,0.817
+Amazon,10,kebakaran,kebakaran,0.991
+Kalimantan,6,kebakaran,kebakaran,0.899
+Amazon,6,banjir,banjir,0.707
+Amazon,7,kebakaran,kebakaran,0.805
+Cekungan Kongo,1,pertanian_skala_kecil,tidak_pasti,0.6
+Cekungan Kongo,2,pertanian_skala_kecil,pertanian_skala_kecil,0.766
+Amazon,5,logging_selektif,jalan,0.73
+Kalimantan,8,pertanian_skala_besar,pertanian_skala_besar,0.733
+Amazon,8,pertanian_skala_besar,pertanian_skala_besar,0.63
+Kalimantan,6,tambang,tambang,0.999
+Amazon,8,kebakaran,tidak_pasti,0.545
+Amazon,3,tambang,tambang,0.935
+Kalimantan,1,tambang,tambang,1.0
+Kalimantan,12,banjir,banjir,0.984
+Kalimantan,2,logging_selektif,logging_selektif,0.935
+Kalimantan,9,banjir,banjir,0.992
+Amazon,8,kebakaran,kebakaran,0.638
+Cekungan Kongo,8,kebakaran,kebakaran,0.994
+Amazon,7,banjir,banjir,0.897
+Amazon,9,kebakaran,kebakaran,0.907
+Amazon,8,kebakaran,kebakaran,0.989
+Cekungan Kongo,6,banjir,banjir,0.991
+Kalimantan,3,pertanian_skala_besar,pertanian_skala_besar,0.97
+Amazon,8,kebakaran,kebakaran,0.972
+Cekungan Kongo,8,kebakaran,kebakaran,0.997
+Kalimantan,1,kebakaran,tidak_pasti,0.569
+Kalimantan,9,tambang,tambang,1.0
+Kalimantan,12,jalan,jalan,0.962
+Cekungan Kongo,8,pertanian_skala_kecil,pertanian_skala_kecil,0.696
+Amazon,1,banjir,tidak_pasti,0.501
+Cekungan Kongo,2,pertanian_skala_kecil,pertanian_skala_kecil,0.737
+Kalimantan,5,logging_selektif,logging_selektif,0.968
+Kalimantan,7,logging_selektif,logging_selektif,0.733
+Amazon,9,kebakaran,kebakaran,0.776
+Amazon,7,tambang,tambang,1.0
+Amazon,10,jalan,tidak_pasti,0.302
+Amazon,4,banjir,banjir,0.936
+Cekungan Kongo,10,banjir,banjir,0.963
+Cekungan Kongo,3,jalan,jalan,0.931
+Kalimantan,2,kebakaran,kebakaran,0.764
+Kalimantan,3,pertanian_skala_besar,tidak_pasti,0.576
+Kalimantan,6,pertanian_skala_besar,pertanian_skala_besar,0.868
+Cekungan Kongo,3,pertanian_skala_kecil,tidak_pasti,0.54
+Cekungan Kongo,1,pertanian_skala_kecil,pertanian_skala_kecil,0.646
+Kalimantan,12,logging_selektif,tidak_pasti,0.544
+Cekungan Kongo,4,logging_selektif,logging_selektif,0.78
+Amazon,12,banjir,banjir,0.748
+Cekungan Kongo,2,pertanian_skala_kecil,tidak_pasti,0.583
+Cekungan Kongo,4,tambang,tambang,1.0
+Amazon,10,banjir,banjir,0.988
+Amazon,12,pertanian_skala_besar,pertanian_skala_besar,0.792
+Amazon,7,kebakaran,kebakaran,0.981
+Cekungan Kongo,1,logging_selektif,logging_selektif,0.92
+Cekungan Kongo,10,pertanian_skala_kecil,tidak_pasti,0.598
+Kalimantan,1,jalan,jalan,0.828
+Amazon,10,kebakaran,kebakaran,1.0
+Amazon,1,pertanian_skala_besar,pertanian_skala_besar,0.932
+Cekungan Kongo,9,pertanian_skala_kecil,pertanian_skala_kecil,0.777
+Cekungan Kongo,12,pertanian_skala_kecil,pertanian_skala_kecil,0.604
+Kalimantan,1,jalan,jalan,0.896
+Cekungan Kongo,10,logging_selektif,tidak_pasti,0.553
+Cekungan Kongo,2,logging_selektif,logging_selektif,0.938
+Amazon,7,logging_selektif,jalan,0.884
+Cekungan Kongo,6,pertanian_skala_kecil,tidak_pasti,0.541
+Amazon,2,banjir,banjir,0.957
+Cekungan Kongo,11,logging_selektif,jalan,0.726
+Amazon,1,pertanian_skala_besar,tidak_pasti,0.526
+Kalimantan,9,logging_selektif,logging_selektif,0.972
+Kalimantan,10,kebakaran,kebakaran,0.998
+Amazon,2,jalan,jalan,0.692
+Kalimantan,1,tambang,tambang,1.0
+Kalimantan,2,tambang,tambang,1.0
+Kalimantan,7,pertanian_skala_besar,pertanian_skala_besar,0.938
+Kalimantan,3,kebakaran,kebakaran,0.999
+Cekungan Kongo,3,pertanian_skala_kecil,tidak_pasti,0.557
+Cekungan Kongo,4,jalan,jalan,0.975
+Cekungan Kongo,4,jalan,jalan,0.733
+Cekungan Kongo,6,banjir,banjir,0.715
+Amazon,9,banjir,banjir,0.998
+Amazon,12,jalan,jalan,0.894
+Amazon,2,pertanian_skala_besar,pertanian_skala_besar,0.719
+Kalimantan,10,pertanian_skala_kecil,pertanian_skala_kecil,0.624
+Cekungan Kongo,12,logging_selektif,logging_selektif,0.778
+Kalimantan,4,banjir,kebakaran,0.629
+Cekungan Kongo,9,kebakaran,kebakaran,0.997
+Amazon,9,banjir,tidak_pasti,0.555
+Kalimantan,4,tambang,tambang,1.0
+Amazon,3,banjir,banjir,0.996
+Kalimantan,1,tambang,tambang,0.999
+Cekungan Kongo,12,logging_selektif,logging_selektif,0.633
+Amazon,6,pertanian_skala_besar,pertanian_skala_besar,0.935
+Cekungan Kongo,11,jalan,jalan,0.818
+Kalimantan,4,jalan,jalan,0.767
+Kalimantan,2,pertanian_skala_kecil,pertanian_skala_kecil,0.8
+Kalimantan,12,tambang,tambang,1.0
+Cekungan Kongo,12,banjir,banjir,0.985
+Kalimantan,7,tambang,tambang,0.99
+Amazon,9,kebakaran,kebakaran,0.779
+Cekungan Kongo,3,pertanian_skala_kecil,pertanian_skala_kecil,0.677
+Kalimantan,8,jalan,jalan,0.927
+Amazon,1,banjir,banjir,0.9
+Cekungan Kongo,11,pertanian_skala_kecil,pertanian_skala_kecil,0.633
+Amazon,7,kebakaran,tidak_pasti,0.573
+Kalimantan,5,banjir,banjir,0.973
+Kalimantan,3,kebakaran,kebakaran,0.963
+Amazon,8,kebakaran,kebakaran,1.0
+Cekungan Kongo,5,pertanian_skala_kecil,tidak_pasti,0.541
+Cekungan Kongo,12,pertanian_skala_kecil,jalan,0.677
+Amazon,11,pertanian_skala_besar,pertanian_skala_kecil,0.66
+Kalimantan,4,pertanian_skala_besar,pertanian_skala_kecil,0.729
+Cekungan Kongo,9,banjir,banjir,0.998
+Cekungan Kongo,3,jalan,tidak_pasti,0.512
+Kalimantan,2,pertanian_skala_besar,tidak_pasti,0.535
+Kalimantan,5,logging_selektif,logging_selektif,0.955
+Kalimantan,5,logging_selektif,logging_selektif,0.959
+Amazon,8,kebakaran,kebakaran,0.79
+Amazon,6,jalan,jalan,0.926
+Kalimantan,8,logging_selektif,logging_selektif,0.966
+Cekungan Kongo,5,pertanian_skala_kecil,pertanian_skala_kecil,0.737
+Amazon,10,kebakaran,kebakaran,0.922
+Cekungan Kongo,7,logging_selektif,logging_selektif,0.924
+Kalimantan,12,logging_selektif,tidak_pasti,0.47
+Amazon,3,tambang,tambang,0.999
+Amazon,12,pertanian_skala_besar,pertanian_skala_besar,0.945
+Cekungan Kongo,10,kebakaran,kebakaran,0.941
+Kalimantan,9,pertanian_skala_besar,tidak_pasti,0.58
+Cekungan Kongo,11,tambang,tambang,1.0
+Amazon,8,pertanian_skala_besar,pertanian_skala_besar,0.993
+Cekungan Kongo,9,kebakaran,kebakaran,0.704
+Amazon,1,tambang,tambang,1.0
+Cekungan Kongo,10,pertanian_skala_kecil,pertanian_skala_kecil,0.674
+Amazon,8,kebakaran,kebakaran,0.744
+Kalimantan,5,banjir,banjir,0.995
+Kalimantan,6,pertanian_skala_besar,pertanian_skala_besar,0.809
+Cekungan Kongo,1,pertanian_skala_kecil,pertanian_skala_besar,0.808
+Kalimantan,4,logging_selektif,tidak_pasti,0.321
+Kalimantan,2,tambang,tambang,0.999
+Cekungan Kongo,12,logging_selektif,jalan,0.663
+Amazon,9,kebakaran,kebakaran,0.996
+Cekungan Kongo,10,logging_selektif,logging_selektif,0.908
+Amazon,2,jalan,jalan,0.804
+Amazon,10,kebakaran,tidak_pasti,0.565
+Kalimantan,11,jalan,jalan,0.966
+Kalimantan,10,banjir,tidak_pasti,0.552
+Cekungan Kongo,3,banjir,banjir,0.993
+Kalimantan,6,pertanian_skala_besar,pertanian_skala_besar,0.982
+Cekungan Kongo,6,pertanian_skala_kecil,pertanian_skala_kecil,0.716
+Amazon,4,jalan,logging_selektif,0.69
+Amazon,6,tambang,tambang,0.999
+Cekungan Kongo,3,tambang,tambang,0.975
+Amazon,11,tambang,tambang,1.0
+Amazon,9,kebakaran,kebakaran,0.909
+Cekungan Kongo,8,pertanian_skala_kecil,tidak_pasti,0.596
+Kalimantan,1,pertanian_skala_kecil,tidak_pasti,0.558
+Amazon,6,banjir,banjir,0.926
+Kalimantan,8,pertanian_skala_besar,pertanian_skala_kecil,0.669
+Cekungan Kongo,5,tambang,tambang,1.0
+Kalimantan,9,tambang,tambang,0.999
+Cekungan Kongo,7,kebakaran,banjir,0.869
+Cekungan Kongo,10,logging_selektif,tidak_pasti,0.428
+Amazon,2,pertanian_skala_besar,pertanian_skala_kecil,0.7
+Amazon,7,kebakaran,kebakaran,0.886
+Kalimantan,5,tambang,tambang,0.988
+Amazon,9,tambang,tambang,0.997
+Amazon,9,kebakaran,kebakaran,0.659
+Amazon,8,banjir,banjir,0.782
+Amazon,12,pertanian_skala_besar,pertanian_skala_besar,0.87
+Cekungan Kongo,1,pertanian_skala_kecil,pertanian_skala_kecil,0.759
+Kalimantan,5,tambang,tambang,0.999
+Amazon,2,pertanian_skala_besar,pertanian_skala_kecil,0.678
+Amazon,10,pertanian_skala_besar,pertanian_skala_besar,0.89
+Kalimantan,5,banjir,banjir,0.993
+Amazon,8,kebakaran,kebakaran,0.994
+Kalimantan,8,jalan,jalan,0.973
+Kalimantan,9,tambang,tambang,0.999
+Kalimantan,3,jalan,jalan,0.981
+Cekungan Kongo,10,kebakaran,kebakaran,0.951
+Kalimantan,10,tambang,tambang,0.999
+Amazon,10,tambang,tambang,0.999
+Kalimantan,2,jalan,tidak_pasti,0.507
+Cekungan Kongo,8,logging_selektif,logging_selektif,0.829
+Amazon,10,kebakaran,kebakaran,0.998
+Amazon,10,pertanian_skala_besar,pertanian_skala_besar,0.815
+Amazon,9,tambang,tambang,0.978
+Cekungan Kongo,7,pertanian_skala_kecil,pertanian_skala_kecil,0.754
+Cekungan Kongo,5,jalan,logging_selektif,0.726
+Kalimantan,1,jalan,jalan,0.951
+Amazon,8,kebakaran,kebakaran,0.973
+Kalimantan,10,logging_selektif,logging_selektif,0.929
+Amazon,2,pertanian_skala_kecil,pertanian_skala_besar,0.821
+Cekungan Kongo,3,logging_selektif,jalan,0.64
+Amazon,8,pertanian_skala_besar,pertanian_skala_besar,0.96
+Kalimantan,8,banjir,banjir,0.987
+Kalimantan,6,banjir,banjir,0.953
+Kalimantan,1,tambang,tambang,1.0
+Amazon,11,pertanian_skala_besar,pertanian_skala_besar,0.739
+Cekungan Kongo,8,kebakaran,kebakaran,0.953
+Amazon,7,jalan,tidak_pasti,0.507
+Kalimantan,8,tambang,tambang,1.0
+Kalimantan,10,tambang,tambang,0.996
+Kalimantan,11,banjir,banjir,0.996
+Cekungan Kongo,3,pertanian_skala_kecil,pertanian_skala_kecil,0.758
+Cekungan Kongo,6,banjir,tidak_pasti,0.544
+Kalimantan,4,tambang,tambang,0.995
+Amazon,6,pertanian_skala_besar,pertanian_skala_besar,0.875
+Amazon,9,pertanian_skala_besar,pertanian_skala_besar,0.676
+Kalimantan,4,tambang,tambang,0.995
+Cekungan Kongo,1,pertanian_skala_kecil,pertanian_skala_kecil,0.636
+Kalimantan,9,jalan,logging_selektif,0.756
+Kalimantan,4,kebakaran,kebakaran,0.953
+Amazon,10,kebakaran,kebakaran,1.0
+Cekungan Kongo,5,tambang,tambang,0.997
+Amazon,7,pertanian_skala_besar,pertanian_skala_besar,0.885
+Kalimantan,4,kebakaran,kebakaran,0.991
+Cekungan Kongo,5,pertanian_skala_kecil,pertanian_skala_kecil,0.727
+Cekungan Kongo,5,banjir,banjir,0.771
+Cekungan Kongo,11,pertanian_skala_kecil,pertanian_skala_kecil,0.719
+Amazon,8,kebakaran,kebakaran,0.987
+Kalimantan,6,pertanian_skala_besar,pertanian_skala_kecil,0.762
+Amazon,2,pertanian_skala_besar,pertanian_skala_besar,0.701
+Cekungan Kongo,6,logging_selektif,logging_selektif,0.67
+Cekungan Kongo,8,kebakaran,kebakaran,0.818
+Amazon,3,logging_selektif,logging_selektif,0.941
+Cekungan Kongo,2,banjir,banjir,0.767
+Amazon,3,pertanian_skala_besar,pertanian_skala_besar,0.617
+Cekungan Kongo,9,tambang,tambang,0.993
+Kalimantan,7,logging_selektif,tidak_pasti,0.42
+Amazon,2,jalan,tidak_pasti,0.32
+Kalimantan,9,tambang,tambang,0.989
+Cekungan Kongo,2,logging_selektif,logging_selektif,0.968
+Amazon,2,logging_selektif,tidak_pasti,0.592
+Cekungan Kongo,2,pertanian_skala_kecil,tidak_pasti,0.496
+Amazon,9,pertanian_skala_kecil,tidak_pasti,0.55
+Cekungan Kongo,10,banjir,banjir,0.9
+Cekungan Kongo,7,pertanian_skala_kecil,pertanian_skala_kecil,0.748
+Kalimantan,11,pertanian_skala_kecil,pertanian_skala_kecil,0.68
+Cekungan Kongo,11,pertanian_skala_kecil,pertanian_skala_kecil,0.688
+Kalimantan,7,logging_selektif,logging_selektif,0.784
+Cekungan Kongo,1,tambang,tambang,1.0
+Kalimantan,11,banjir,banjir,0.899
+Kalimantan,2,banjir,tidak_pasti,0.499
+Cekungan Kongo,9,kebakaran,banjir,0.779
+Cekungan Kongo,11,pertanian_skala_kecil,pertanian_skala_kecil,0.627
+Amazon,4,jalan,tidak_pasti,0.391
+Amazon,12,banjir,banjir,0.996
+Kalimantan,5,pertanian_skala_besar,pertanian_skala_besar,0.822
+Amazon,9,jalan,jalan,0.661
+Cekungan Kongo,9,kebakaran,kebakaran,0.999
+Amazon,11,banjir,banjir,0.999
+Cekungan Kongo,8,pertanian_skala_besar,pertanian_skala_besar,0.794
+Kalimantan,2,jalan,jalan,0.939
+Cekungan Kongo,10,logging_selektif,logging_selektif,0.868
+Amazon,4,pertanian_skala_besar,pertanian_skala_besar,0.86
+Amazon,12,pertanian_skala_besar,pertanian_skala_besar,0.837
+Amazon,7,pertanian_skala_besar,tidak_pasti,0.503
+Cekungan Kongo,1,tambang,tambang,1.0
+Kalimantan,1,kebakaran,kebakaran,0.906
+Amazon,7,logging_selektif,tidak_pasti,0.532
+Kalimantan,12,jalan,jalan,0.882
+Amazon,11,pertanian_skala_kecil,pertanian_skala_kecil,0.611
+Cekungan Kongo,10,kebakaran,banjir,0.942
+Amazon,10,jalan,tidak_pasti,0.521
+Cekungan Kongo,8,pertanian_skala_besar,pertanian_skala_besar,0.779
+Amazon,4,tambang,tambang,1.0
+Kalimantan,3,pertanian_skala_besar,pertanian_skala_kecil,0.682
+Kalimantan,5,pertanian_skala_kecil,pertanian_skala_kecil,0.611
+Cekungan Kongo,4,banjir,banjir,0.888
+Cekungan Kongo,7,pertanian_skala_kecil,pertanian_skala_kecil,0.692
+Cekungan Kongo,12,logging_selektif,logging_selektif,0.872
+Amazon,5,pertanian_skala_besar,pertanian_skala_besar,0.698
+Amazon,8,kebakaran,tidak_pasti,0.541
+Amazon,2,pertanian_skala_besar,pertanian_skala_besar,0.967
+Kalimantan,8,banjir,banjir,0.622
+Cekungan Kongo,8,tambang,tambang,0.996
+Amazon,9,kebakaran,kebakaran,0.993
+Cekungan Kongo,3,jalan,jalan,0.892
+Cekungan Kongo,7,banjir,banjir,0.993
+Cekungan Kongo,10,jalan,jalan,0.642
+Cekungan Kongo,5,tambang,tambang,0.998
+Kalimantan,12,kebakaran,kebakaran,0.971
+Cekungan Kongo,10,pertanian_skala_kecil,pertanian_skala_kecil,0.736
+Cekungan Kongo,10,banjir,banjir,0.724
+Kalimantan,9,pertanian_skala_besar,pertanian_skala_besar,0.697
+Cekungan Kongo,6,logging_selektif,logging_selektif,0.889
+Kalimantan,5,tambang,tambang,0.964
+Amazon,5,pertanian_skala_besar,pertanian_skala_besar,0.912
+Amazon,9,kebakaran,kebakaran,0.945
+Cekungan Kongo,1,pertanian_skala_kecil,pertanian_skala_besar,0.611
+Cekungan Kongo,3,pertanian_skala_kecil,pertanian_skala_kecil,0.841
+Amazon,8,kebakaran,kebakaran,0.96
+Kalimantan,10,pertanian_skala_kecil,pertanian_skala_kecil,0.824
+Kalimantan,5,kebakaran,tidak_pasti,0.518
+Amazon,9,kebakaran,kebakaran,0.842
+Amazon,9,banjir,banjir,0.977
+Amazon,1,pertanian_skala_kecil,tidak_pasti,0.579
+Amazon,7,banjir,banjir,0.976
+Amazon,9,jalan,jalan,0.802
+Amazon,7,jalan,logging_selektif,0.788
+Kalimantan,6,jalan,logging_selektif,0.787
+Cekungan Kongo,9,tambang,tambang,0.981
+Cekungan Kongo,12,tambang,tambang,0.997
+Cekungan Kongo,11,logging_selektif,logging_selektif,0.87
+Amazon,2,pertanian_skala_besar,pertanian_skala_besar,0.866
+Amazon,10,kebakaran,kebakaran,0.948
+Amazon,11,banjir,banjir,0.988
+Cekungan Kongo,9,banjir,banjir,1.0
+Amazon,9,pertanian_skala_besar,tidak_pasti,0.498
+Amazon,10,pertanian_skala_besar,pertanian_skala_kecil,0.667
+Amazon,9,logging_selektif,logging_selektif,0.805
+Amazon,8,kebakaran,kebakaran,0.998
+Cekungan Kongo,9,logging_selektif,logging_selektif,0.904
+Kalimantan,12,pertanian_skala_besar,pertanian_skala_besar,0.838
+Amazon,3,tambang,tambang,0.997
+Kalimantan,11,banjir,tidak_pasti,0.562
+Kalimantan,10,tambang,tambang,0.999
+Cekungan Kongo,1,jalan,jalan,0.686
+Cekungan Kongo,4,banjir,banjir,0.926
+Cekungan Kongo,11,banjir,kebakaran,0.66
+Amazon,2,jalan,tidak_pasti,0.492
+Kalimantan,4,tambang,tambang,1.0
+Amazon,1,pertanian_skala_besar,pertanian_skala_besar,0.893
+Amazon,2,jalan,jalan,0.697
+Amazon,4,banjir,banjir,0.992
+Amazon,2,banjir,banjir,0.996
+Cekungan Kongo,7,logging_selektif,logging_selektif,0.948
+Cekungan Kongo,12,banjir,banjir,0.785
+Amazon,7,kebakaran,banjir,0.834
+Cekungan Kongo,4,pertanian_skala_kecil,pertanian_skala_kecil,0.743
+Amazon,3,tambang,tambang,0.998
+Cekungan Kongo,5,tambang,tambang,0.999
+Cekungan Kongo,10,jalan,logging_selektif,0.634
+Amazon,7,jalan,jalan,0.93
+Amazon,11,banjir,banjir,0.754
+Amazon,9,banjir,banjir,0.961
+Amazon,12,pertanian_skala_besar,pertanian_skala_kecil,0.72
+Amazon,11,jalan,tidak_pasti,0.568
+Amazon,11,pertanian_skala_besar,pertanian_skala_besar,0.713
+Kalimantan,5,banjir,banjir,0.64
+Cekungan Kongo,5,pertanian_skala_kecil,tidak_pasti,0.37
+Cekungan Kongo,8,kebakaran,kebakaran,0.831
+Kalimantan,1,tambang,tambang,0.988
+Kalimantan,1,pertanian_skala_kecil,pertanian_skala_kecil,0.709
+Amazon,4,tambang,tambang,1.0
+Cekungan Kongo,4,tambang,tambang,1.0
+Cekungan Kongo,8,pertanian_skala_kecil,pertanian_skala_kecil,0.612
+Kalimantan,11,logging_selektif,jalan,0.783
+Kalimantan,5,logging_selektif,tidak_pasti,0.528
+Kalimantan,1,jalan,jalan,0.874
+Cekungan Kongo,10,jalan,tidak_pasti,0.52
+Amazon,10,kebakaran,tidak_pasti,0.583
+Amazon,9,pertanian_skala_besar,pertanian_skala_besar,0.95
+Kalimantan,4,tambang,tambang,1.0
+Cekungan Kongo,7,tambang,tambang,0.998
+Kalimantan,9,banjir,banjir,0.97
+Kalimantan,5,pertanian_skala_kecil,pertanian_skala_kecil,0.766
+Amazon,4,pertanian_skala_besar,pertanian_skala_besar,0.674
+Cekungan Kongo,8,kebakaran,kebakaran,0.95
+Amazon,11,tambang,tambang,1.0
+Amazon,8,pertanian_skala_besar,pertanian_skala_besar,0.917
+Kalimantan,8,tambang,tambang,0.983
+Amazon,9,kebakaran,kebakaran,0.996
+Amazon,9,kebakaran,kebakaran,0.903
+Cekungan Kongo,11,tambang,tambang,0.999
+Amazon,3,banjir,banjir,0.9
+Kalimantan,9,tambang,tambang,0.781
+Kalimantan,8,banjir,banjir,0.802
+Kalimantan,3,jalan,jalan,0.928
+Cekungan Kongo,4,logging_selektif,logging_selektif,0.901
+Cekungan Kongo,9,kebakaran,banjir,0.69
+Amazon,10,pertanian_skala_besar,tidak_pasti,0.518
+Kalimantan,5,banjir,banjir,0.693
+Kalimantan,3,banjir,banjir,0.998
+Amazon,1,logging_selektif,logging_selektif,0.956
+Cekungan Kongo,6,jalan,logging_selektif,0.876
+Kalimantan,12,tambang,tambang,0.999
+Amazon,4,jalan,jalan,0.895
+Amazon,3,pertanian_skala_besar,pertanian_skala_besar,0.752
+Kalimantan,3,tambang,tambang,1.0
+Amazon,4,pertanian_skala_besar,tidak_pasti,0.496
+Cekungan Kongo,6,pertanian_skala_kecil,pertanian_skala_kecil,0.654
+Cekungan Kongo,10,pertanian_skala_kecil,tidak_pasti,0.494
+Cekungan Kongo,7,jalan,jalan,0.91
+Kalimantan,11,logging_selektif,logging_selektif,0.765
+Amazon,11,pertanian_skala_besar,pertanian_skala_besar,0.798
+Amazon,11,banjir,banjir,0.999
+Amazon,9,kebakaran,tidak_pasti,0.502
+Cekungan Kongo,7,logging_selektif,logging_selektif,0.947
+Cekungan Kongo,5,logging_selektif,tidak_pasti,0.348
+Cekungan Kongo,10,logging_selektif,logging_selektif,0.768
+Kalimantan,5,banjir,banjir,0.985
+Cekungan Kongo,2,logging_selektif,jalan,0.879
+Amazon,3,banjir,banjir,0.982
+Kalimantan,6,jalan,logging_selektif,0.763
+Cekungan Kongo,2,logging_selektif,logging_selektif,0.685
+Amazon,3,logging_selektif,jalan,0.774
+Cekungan Kongo,4,jalan,jalan,0.957
+Kalimantan,5,pertanian_skala_kecil,pertanian_skala_kecil,0.619
+Amazon,9,kebakaran,kebakaran,0.877
+Amazon,3,pertanian_skala_besar,tidak_pasti,0.537
+Cekungan Kongo,8,banjir,banjir,0.991
+Amazon,9,kebakaran,kebakaran,0.807
+Kalimantan,11,logging_selektif,logging_selektif,0.613
+Kalimantan,3,jalan,logging_selektif,0.845
+Cekungan Kongo,1,tambang,tambang,0.997
+Cekungan Kongo,2,tambang,tambang,0.999
+Amazon,10,kebakaran,kebakaran,0.99
+Cekungan Kongo,3,pertanian_skala_kecil,pertanian_skala_kecil,0.708
+Amazon,5,banjir,banjir,0.98
+Amazon,4,pertanian_skala_kecil,tidak_pasti,0.576
+Amazon,9,kebakaran,kebakaran,1.0
+Kalimantan,1,jalan,jalan,0.949
+Kalimantan,1,logging_selektif,logging_selektif,0.951
+Kalimantan,8,tambang,tambang,0.999
+Kalimantan,5,banjir,banjir,0.934
+Kalimantan,11,tambang,tambang,0.998
+Cekungan Kongo,10,tambang,tambang,0.991
+Kalimantan,6,pertanian_skala_besar,pertanian_skala_besar,0.92
+Kalimantan,12,jalan,jalan,0.953
+Amazon,4,pertanian_skala_besar,tidak_pasti,0.596
+Cekungan Kongo,1,logging_selektif,logging_selektif,0.729
+Cekungan Kongo,6,pertanian_skala_kecil,tidak_pasti,0.565
+Cekungan Kongo,12,logging_selektif,logging_selektif,0.941
+Kalimantan,12,pertanian_skala_besar,tidak_pasti,0.501
+Amazon,7,kebakaran,kebakaran,0.798
+Amazon,2,pertanian_skala_besar,pertanian_skala_besar,0.915
+Kalimantan,7,tambang,tambang,0.999
+Cekungan Kongo,7,pertanian_skala_kecil,pertanian_skala_kecil,0.768
+Kalimantan,4,jalan,jalan,0.942
+Kalimantan,10,logging_selektif,logging_selektif,0.958
+Cekungan Kongo,10,tambang,tambang,0.991
+Amazon,2,pertanian_skala_besar,pertanian_skala_besar,0.926
+Amazon,4,banjir,banjir,0.998
+Cekungan Kongo,4,pertanian_skala_kecil,pertanian_skala_kecil,0.748
+Kalimantan,3,logging_selektif,logging_selektif,0.903
+Cekungan Kongo,8,logging_selektif,logging_selektif,0.816
+Amazon,2,logging_selektif,tidak_pasti,0.515
+Amazon,8,logging_selektif,logging_selektif,0.61
+Amazon,7,kebakaran,kebakaran,0.994
+Amazon,1,pertanian_skala_besar,pertanian_skala_besar,0.806
+Amazon,3,jalan,tidak_pasti,0.434
+Cekungan Kongo,5,pertanian_skala_kecil,tidak_pasti,0.53
+Amazon,7,kebakaran,kebakaran,0.953
+Kalimantan,7,tambang,tambang,1.0
+Kalimantan,6,jalan,jalan,0.832
+Cekungan Kongo,4,jalan,tidak_pasti,0.55
+Cekungan Kongo,8,logging_selektif,logging_selektif,0.919
+Amazon,10,logging_selektif,tidak_pasti,0.568
+Cekungan Kongo,5,pertanian_skala_kecil,pertanian_skala_kecil,0.631
+Kalimantan,3,tambang,tambang,0.999
+Amazon,4,jalan,jalan,0.637
+Amazon,11,banjir,banjir,0.93
+Cekungan Kongo,7,logging_selektif,logging_selektif,0.938
+Cekungan Kongo,11,pertanian_skala_kecil,pertanian_skala_kecil,0.757
+Amazon,3,jalan,jalan,0.8
+Amazon,9,kebakaran,banjir,0.686
+Kalimantan,9,tambang,tambang,1.0
+Kalimantan,2,jalan,tidak_pasti,0.534
+Amazon,6,pertanian_skala_besar,pertanian_skala_besar,0.761
+Amazon,9,banjir,banjir,0.96
+Amazon,9,banjir,banjir,0.997
+Amazon,2,banjir,banjir,0.882
+Cekungan Kongo,10,logging_selektif,logging_selektif,0.848
+Kalimantan,3,jalan,jalan,0.624
+Cekungan Kongo,9,pertanian_skala_kecil,pertanian_skala_kecil,0.742
+Amazon,6,pertanian_skala_besar,tidak_pasti,0.533
+Cekungan Kongo,12,tambang,tambang,1.0
+Amazon,11,pertanian_skala_besar,pertanian_skala_besar,0.958
+Cekungan Kongo,5,logging_selektif,tidak_pasti,0.531
+Kalimantan,3,logging_selektif,logging_selektif,0.755
+Cekungan Kongo,7,pertanian_skala_kecil,pertanian_skala_kecil,0.675
+Amazon,9,kebakaran,kebakaran,0.986
+Kalimantan,3,pertanian_skala_kecil,pertanian_skala_kecil,0.724
+Kalimantan,1,tambang,tambang,1.0
+Kalimantan,11,pertanian_skala_besar,pertanian_skala_besar,0.829
+Kalimantan,9,logging_selektif,logging_selektif,0.863
+Amazon,6,pertanian_skala_besar,pertanian_skala_kecil,0.698
+Amazon,1,pertanian_skala_besar,tidak_pasti,0.497
+Cekungan Kongo,4,pertanian_skala_kecil,pertanian_skala_kecil,0.799
+Amazon,11,banjir,tidak_pasti,0.557
+Kalimantan,11,banjir,banjir,0.921
+Amazon,12,banjir,banjir,0.801
+Cekungan Kongo,2,pertanian_skala_kecil,pertanian_skala_kecil,0.728
+Cekungan Kongo,5,logging_selektif,logging_selektif,0.741
+Amazon,7,jalan,jalan,0.947
+Amazon,5,pertanian_skala_kecil,tidak_pasti,0.566
+Cekungan Kongo,11,banjir,banjir,0.999
+Amazon,5,pertanian_skala_kecil,pertanian_skala_besar,0.648
+Cekungan Kongo,7,pertanian_skala_kecil,pertanian_skala_kecil,0.767
+Cekungan Kongo,11,tambang,tambang,0.906
+Amazon,3,banjir,banjir,0.734
+Cekungan Kongo,9,kebakaran,kebakaran,0.833
+Cekungan Kongo,11,pertanian_skala_kecil,pertanian_skala_kecil,0.731
+Kalimantan,7,tambang,tambang,1.0
+Kalimantan,7,jalan,jalan,0.833
+Cekungan Kongo,12,tambang,tambang,0.995
+Cekungan Kongo,4,jalan,jalan,0.864
+Kalimantan,12,tambang,tambang,0.998
+Kalimantan,10,pertanian_skala_kecil,pertanian_skala_besar,0.824
+Kalimantan,5,pertanian_skala_besar,pertanian_skala_besar,0.621
+Amazon,6,tambang,tambang,1.0
+Amazon,10,kebakaran,banjir,0.624
+Cekungan Kongo,1,logging_selektif,tidak_pasti,0.577
+Cekungan Kongo,6,banjir,banjir,0.871
+Amazon,11,logging_selektif,tidak_pasti,0.571
+Amazon,2,pertanian_skala_besar,tidak_pasti,0.51
+Amazon,9,pertanian_skala_besar,pertanian_skala_besar,0.863
+Cekungan Kongo,6,logging_selektif,tidak_pasti,0.556
+Cekungan Kongo,2,pertanian_skala_kecil,pertanian_skala_besar,0.831
+Kalimantan,2,logging_selektif,logging_selektif,0.954
+Cekungan Kongo,7,logging_selektif,jalan,0.762
+Kalimantan,5,pertanian_skala_kecil,pertanian_skala_kecil,0.796
+Amazon,1,pertanian_skala_besar,pertanian_skala_besar,0.828
+Kalimantan,10,pertanian_skala_besar,pertanian_skala_besar,0.943
+Amazon,9,tambang,tambang,0.98
+Cekungan Kongo,3,logging_selektif,logging_selektif,0.827
+Kalimantan,5,tambang,tambang,0.999
+Cekungan Kongo,4,pertanian_skala_kecil,pertanian_skala_kecil,0.809
+Amazon,9,kebakaran,kebakaran,0.915
+Cekungan Kongo,2,logging_selektif,tidak_pasti,0.496
+Cekungan Kongo,2,pertanian_skala_besar,pertanian_skala_besar,0.898
+Cekungan Kongo,7,tambang,tambang,1.0
+Amazon,1,banjir,banjir,0.961
+Amazon,1,banjir,banjir,0.884
+Cekungan Kongo,5,pertanian_skala_kecil,pertanian_skala_kecil,0.753
+Amazon,10,kebakaran,kebakaran,0.621
+Kalimantan,3,banjir,banjir,0.841
+Amazon,6,jalan,jalan,0.885
+Amazon,5,pertanian_skala_besar,pertanian_skala_kecil,0.641
+Cekungan Kongo,9,pertanian_skala_kecil,tidak_pasti,0.569
+Cekungan Kongo,3,pertanian_skala_kecil,tidak_pasti,0.51
+Kalimantan,3,tambang,tambang,0.96
+Kalimantan,6,jalan,tidak_pasti,0.51
+Cekungan Kongo,5,pertanian_skala_kecil,pertanian_skala_kecil,0.698
+Amazon,3,jalan,tidak_pasti,0.499
+Kalimantan,9,jalan,jalan,0.925
+Cekungan Kongo,3,logging_selektif,logging_selektif,0.691
+Kalimantan,9,logging_selektif,logging_selektif,0.76
+Cekungan Kongo,10,kebakaran,kebakaran,0.984
+Amazon,10,logging_selektif,tidak_pasti,0.515
+Cekungan Kongo,10,pertanian_skala_kecil,tidak_pasti,0.499
+Kalimantan,7,jalan,tidak_pasti,0.589
+Cekungan Kongo,7,logging_selektif,logging_selektif,0.813
+Amazon,12,pertanian_skala_besar,pertanian_skala_besar,0.866
+Kalimantan,1,tambang,tambang,1.0
+Amazon,9,kebakaran,kebakaran,1.0
+Kalimantan,3,kebakaran,banjir,0.806
+Amazon,9,kebakaran,kebakaran,0.987
+Kalimantan,2,pertanian_skala_besar,tidak_pasti,0.53
+Kalimantan,7,tambang,tambang,0.999
+Amazon,12,pertanian_skala_kecil,pertanian_skala_kecil,0.658
+Kalimantan,3,tambang,tambang,0.998
+Kalimantan,3,tambang,tambang,1.0
+Cekungan Kongo,8,tambang,tambang,0.998
+Cekungan Kongo,5,pertanian_skala_kecil,tidak_pasti,0.557
+Kalimantan,4,banjir,banjir,0.884
+Amazon,1,tambang,tambang,0.981
+Kalimantan,6,banjir,banjir,0.728
+Amazon,11,logging_selektif,logging_selektif,0.844
+Cekungan Kongo,2,logging_selektif,logging_selektif,0.958
+Amazon,3,pertanian_skala_besar,tidak_pasti,0.53
+Kalimantan,11,logging_selektif,logging_selektif,0.809
+Amazon,8,kebakaran,kebakaran,0.977
+Kalimantan,5,tambang,tambang,0.999
+Amazon,6,jalan,tidak_pasti,0.467
+Amazon,9,kebakaran,kebakaran,0.985
+Amazon,2,pertanian_skala_besar,pertanian_skala_besar,0.929
+Cekungan Kongo,10,jalan,tidak_pasti,0.409
+Cekungan Kongo,2,banjir,banjir,0.941
+Amazon,11,jalan,jalan,0.697
+Cekungan Kongo,9,banjir,banjir,0.688
+Amazon,12,pertanian_skala_kecil,pertanian_skala_kecil,0.711
+Cekungan Kongo,3,tambang,tambang,1.0
+Amazon,2,jalan,jalan,0.939
+Cekungan Kongo,5,pertanian_skala_kecil,pertanian_skala_kecil,0.8
+Cekungan Kongo,12,tambang,tambang,1.0
+Cekungan Kongo,9,pertanian_skala_kecil,pertanian_skala_kecil,0.726
+Amazon,8,kebakaran,banjir,0.649
+Amazon,5,pertanian_skala_besar,pertanian_skala_besar,0.965
+Kalimantan,9,pertanian_skala_besar,pertanian_skala_besar,0.736
+Kalimantan,3,tambang,tambang,0.988
+Amazon,6,banjir,tidak_pasti,0.513
+Kalimantan,3,pertanian_skala_kecil,pertanian_skala_kecil,0.682
+Kalimantan,7,pertanian_skala_kecil,tidak_pasti,0.518
+Amazon,3,pertanian_skala_besar,pertanian_skala_besar,0.659
+Amazon,8,pertanian_skala_besar,pertanian_skala_besar,0.782
+Kalimantan,8,logging_selektif,logging_selektif,0.889
+Kalimantan,4,jalan,logging_selektif,0.621
+Amazon,3,pertanian_skala_besar,tidak_pasti,0.565
+Kalimantan,12,logging_selektif,tidak_pasti,0.597
+Cekungan Kongo,8,banjir,banjir,0.998
+Amazon,1,pertanian_skala_besar,pertanian_skala_besar,0.852
+Amazon,2,pertanian_skala_besar,pertanian_skala_besar,0.774
+Kalimantan,6,kebakaran,kebakaran,0.99
+Cekungan Kongo,9,banjir,banjir,0.817
+Kalimantan,3,jalan,jalan,0.891
+Amazon,6,pertanian_skala_besar,pertanian_skala_besar,0.811
+Cekungan Kongo,1,pertanian_skala_kecil,tidak_pasti,0.576
+Amazon,8,kebakaran,kebakaran,0.999
+Cekungan Kongo,8,logging_selektif,logging_selektif,0.707
+Cekungan Kongo,9,jalan,tidak_pasti,0.521
+Cekungan Kongo,11,pertanian_skala_kecil,pertanian_skala_kecil,0.788
+Cekungan Kongo,6,pertanian_skala_kecil,pertanian_skala_kecil,0.603
+Cekungan Kongo,4,logging_selektif,tidak_pasti,0.583
+Cekungan Kongo,11,logging_selektif,tidak_pasti,0.51
+Kalimantan,3,tambang,tambang,0.999
+Cekungan Kongo,6,logging_selektif,logging_selektif,0.763
+Kalimantan,11,banjir,banjir,0.949
+Amazon,1,tambang,tambang,1.0
+Kalimantan,12,banjir,banjir,0.988
+Cekungan Kongo,12,tambang,tambang,1.0
+Kalimantan,11,logging_selektif,logging_selektif,0.686
+Amazon,8,kebakaran,kebakaran,0.987
+Amazon,8,kebakaran,kebakaran,0.921
+Kalimantan,6,tambang,tambang,1.0
+Kalimantan,9,kebakaran,kebakaran,0.677
+Amazon,1,logging_selektif,tidak_pasti,0.383
+Amazon,3,logging_selektif,jalan,0.741
+Cekungan Kongo,2,pertanian_skala_kecil,pertanian_skala_kecil,0.726
+Kalimantan,7,jalan,tidak_pasti,0.597
+Kalimantan,1,jalan,jalan,0.616
+Kalimantan,12,logging_selektif,logging_selektif,0.632
+Amazon,1,banjir,banjir,0.996
+Amazon,9,jalan,logging_selektif,0.768
+Amazon,12,pertanian_skala_besar,pertanian_skala_besar,0.954
+Cekungan Kongo,6,jalan,jalan,0.901
+Cekungan Kongo,3,jalan,jalan,0.628
+Kalimantan,12,pertanian_skala_besar,tidak_pasti,0.598
+Kalimantan,4,logging_selektif,logging_selektif,0.864
+Kalimantan,5,tambang,tambang,0.996
+Cekungan Kongo,4,pertanian_skala_kecil,pertanian_skala_kecil,0.652
+Kalimantan,8,jalan,jalan,0.911
+Amazon,10,pertanian_skala_besar,pertanian_skala_besar,0.622
+Cekungan Kongo,11,pertanian_skala_besar,pertanian_skala_besar,0.847
+Cekungan Kongo,1,pertanian_skala_kecil,tidak_pasti,0.477
+Cekungan Kongo,12,tambang,tambang,0.974
+Kalimantan,9,logging_selektif,logging_selektif,0.884
+Kalimantan,1,pertanian_skala_besar,pertanian_skala_kecil,0.633
+Kalimantan,1,logging_selektif,jalan,0.649
+Amazon,9,jalan,jalan,0.756
+Cekungan Kongo,6,tambang,tambang,0.999
+Kalimantan,11,banjir,banjir,0.982
+Amazon,5,jalan,jalan,0.87
+Amazon,1,pertanian_skala_besar,pertanian_skala_besar,0.828
+Amazon,5,jalan,tidak_pasti,0.596
+Cekungan Kongo,11,pertanian_skala_kecil,tidak_pasti,0.526
+Cekungan Kongo,4,pertanian_skala_kecil,pertanian_skala_kecil,0.715
+Cekungan Kongo,8,pertanian_skala_kecil,pertanian_skala_kecil,0.695
+Kalimantan,2,logging_selektif,logging_selektif,0.855
+Kalimantan,9,tambang,tambang,0.998
+Amazon,9,kebakaran,banjir,0.659
+Kalimantan,7,tambang,tambang,0.995
+Amazon,4,pertanian_skala_besar,pertanian_skala_besar,0.902
+Amazon,3,tambang,tambang,0.999
+Amazon,12,jalan,jalan,0.702
+Cekungan Kongo,9,banjir,banjir,0.98
+Amazon,9,kebakaran,kebakaran,1.0
+Cekungan Kongo,8,banjir,banjir,0.998
+Amazon,5,jalan,jalan,0.907
+Kalimantan,11,logging_selektif,logging_selektif,0.614
+Kalimantan,1,pertanian_skala_besar,tidak_pasti,0.493
+Kalimantan,3,logging_selektif,tidak_pasti,0.593
+Amazon,4,banjir,tidak_pasti,0.599
+Kalimantan,3,kebakaran,kebakaran,0.937
+Cekungan Kongo,1,jalan,jalan,0.642
+Cekungan Kongo,3,logging_selektif,logging_selektif,0.804
+Amazon,8,banjir,banjir,0.997
+Kalimantan,6,banjir,banjir,0.956
+Cekungan Kongo,10,jalan,logging_selektif,0.754
+Cekungan Kongo,7,pertanian_skala_kecil,pertanian_skala_kecil,0.688
+Amazon,2,logging_selektif,tidak_pasti,0.527
+Kalimantan,10,pertanian_skala_besar,pertanian_skala_besar,0.821
+Cekungan Kongo,9,logging_selektif,logging_selektif,0.818
+Kalimantan,7,logging_selektif,logging_selektif,0.725
+Cekungan Kongo,4,banjir,kebakaran,0.759
+Amazon,9,kebakaran,kebakaran,0.728
+Amazon,8,jalan,jalan,0.99
+Kalimantan,3,tambang,tidak_pasti,0.548
+Kalimantan,7,logging_selektif,tidak_pasti,0.311
+Amazon,10,pertanian_skala_besar,pertanian_skala_kecil,0.781
+Amazon,9,kebakaran,kebakaran,0.942
+Amazon,7,jalan,jalan,0.625
+Kalimantan,1,banjir,kebakaran,0.74
+Amazon,8,banjir,kebakaran,0.708
+Cekungan Kongo,10,banjir,banjir,0.974
+Kalimantan,12,pertanian_skala_besar,pertanian_skala_besar,0.702
+Kalimantan,4,jalan,tidak_pasti,0.467
+Cekungan Kongo,2,pertanian_skala_kecil,pertanian_skala_besar,0.737
+Amazon,9,kebakaran,kebakaran,0.727
+Kalimantan,10,pertanian_skala_kecil,pertanian_skala_kecil,0.71
+Amazon,5,jalan,jalan,0.967
+Amazon,7,kebakaran,kebakaran,0.834
+Kalimantan,10,logging_selektif,tidak_pasti,0.526
+Kalimantan,1,tambang,tambang,0.999
+Kalimantan,6,banjir,tidak_pasti,0.547
+Amazon,7,banjir,kebakaran,0.832
+Kalimantan,11,logging_selektif,logging_selektif,0.626
+Amazon,8,kebakaran,kebakaran,0.915
+Amazon,8,kebakaran,kebakaran,0.992
+Amazon,10,kebakaran,banjir,0.808
+Cekungan Kongo,4,pertanian_skala_kecil,pertanian_skala_besar,0.634
+Amazon,3,jalan,jalan,0.905
+Kalimantan,1,banjir,banjir,0.744
+Cekungan Kongo,9,kebakaran,kebakaran,0.964
+Amazon,11,jalan,jalan,0.982
+Amazon,1,pertanian_skala_besar,tidak_pasti,0.587
+Cekungan Kongo,7,tambang,tambang,0.998
+Amazon,3,jalan,jalan,0.798
+Cekungan Kongo,7,logging_selektif,logging_selektif,0.939
+Amazon,11,jalan,jalan,0.864
+Cekungan Kongo,10,kebakaran,kebakaran,0.997
+Kalimantan,12,logging_selektif,logging_selektif,0.623
+Amazon,6,banjir,kebakaran,0.63
+Kalimantan,2,pertanian_skala_besar,pertanian_skala_besar,0.806
+Kalimantan,9,banjir,banjir,0.662
+Amazon,12,pertanian_skala_besar,pertanian_skala_besar,0.621
+Cekungan Kongo,9,pertanian_skala_kecil,pertanian_skala_besar,0.762
+Kalimantan,4,tambang,tambang,0.999
+Kalimantan,4,banjir,banjir,0.985
+Cekungan Kongo,5,pertanian_skala_kecil,pertanian_skala_besar,0.718
+Amazon,9,kebakaran,kebakaran,0.827
+Cekungan Kongo,6,jalan,tidak_pasti,0.546
+Amazon,8,pertanian_skala_besar,tidak_pasti,0.569
+Amazon,11,banjir,banjir,0.917
+Cekungan Kongo,12,banjir,banjir,0.989
+Amazon,1,pertanian_skala_besar,pertanian_skala_besar,0.756
+Kalimantan,6,tambang,tambang,1.0
+Amazon,7,kebakaran,kebakaran,0.999
+Cekungan Kongo,7,jalan,jalan,0.636
+Kalimantan,5,tambang,tambang,1.0
+Kalimantan,5,logging_selektif,logging_selektif,0.64
+Cekungan Kongo,8,banjir,banjir,0.964
+Amazon,9,kebakaran,tidak_pasti,0.564
+Kalimantan,4,logging_selektif,logging_selektif,0.78
+Cekungan Kongo,6,banjir,banjir,0.994
+Kalimantan,6,banjir,banjir,0.673
+Amazon,8,kebakaran,kebakaran,0.684
+Kalimantan,10,banjir,banjir,0.916
+Amazon,4,jalan,jalan,0.677
+Kalimantan,8,logging_selektif,tidak_pasti,0.52
+Kalimantan,5,logging_selektif,logging_selektif,0.785
+Cekungan Kongo,2,banjir,tidak_pasti,0.503
+Kalimantan,5,jalan,jalan,0.965
+Kalimantan,8,tambang,tambang,0.994
+Kalimantan,3,tambang,tambang,1.0
+Kalimantan,12,banjir,kebakaran,0.792
+Amazon,12,pertanian_skala_kecil,pertanian_skala_kecil,0.754
+Kalimantan,9,pertanian_skala_besar,pertanian_skala_besar,0.851
+Amazon,10,pertanian_skala_besar,pertanian_skala_besar,0.632
+Amazon,5,pertanian_skala_kecil,pertanian_skala_besar,0.708
+Kalimantan,1,pertanian_skala_besar,tidak_pasti,0.579
+Cekungan Kongo,10,kebakaran,kebakaran,0.992
+Amazon,7,kebakaran,kebakaran,0.882
+Kalimantan,10,tambang,tambang,0.978
+Amazon,4,jalan,jalan,0.89
+Cekungan Kongo,10,logging_selektif,logging_selektif,0.986
+Kalimantan,6,jalan,tidak_pasti,0.578
+Amazon,7,kebakaran,kebakaran,1.0
+Amazon,12,pertanian_skala_besar,pertanian_skala_kecil,0.62
+Kalimantan,10,logging_selektif,logging_selektif,0.908
+Amazon,5,tambang,tambang,0.991
+Kalimantan,6,kebakaran,kebakaran,0.973
+Amazon,12,tambang,tambang,1.0
+Cekungan Kongo,8,pertanian_skala_kecil,pertanian_skala_kecil,0.657
+Amazon,9,kebakaran,kebakaran,0.992
+Amazon,7,pertanian_skala_besar,pertanian_skala_besar,0.907
+Cekungan Kongo,11,jalan,jalan,0.96
+Amazon,11,banjir,banjir,0.873
+Cekungan Kongo,4,logging_selektif,tidak_pasti,0.368
+Kalimantan,5,pertanian_skala_kecil,pertanian_skala_kecil,0.782
+Amazon,7,jalan,tidak_pasti,0.591
+Amazon,4,jalan,logging_selektif,0.69
+Amazon,7,tambang,tambang,1.0
+Amazon,6,pertanian_skala_besar,pertanian_skala_besar,0.778
+Amazon,4,pertanian_skala_besar,pertanian_skala_besar,0.949
+Amazon,12,banjir,banjir,0.997
+Kalimantan,2,jalan,jalan,0.982
+Kalimantan,3,pertanian_skala_besar,pertanian_skala_kecil,0.815
+Amazon,9,jalan,jalan,0.842
+Cekungan Kongo,4,pertanian_skala_besar,pertanian_skala_besar,0.903
+Kalimantan,12,kebakaran,kebakaran,0.979
+Kalimantan,7,logging_selektif,logging_selektif,0.74
+Kalimantan,2,jalan,jalan,0.909
+Kalimantan,7,pertanian_skala_kecil,tidak_pasti,0.535
+Cekungan Kongo,3,pertanian_skala_kecil,pertanian_skala_kecil,0.687
+Kalimantan,1,banjir,banjir,0.671
+Cekungan Kongo,7,jalan,jalan,0.775
+Cekungan Kongo,11,banjir,banjir,0.73
+Kalimantan,12,tambang,tambang,1.0
+Cekungan Kongo,8,pertanian_skala_kecil,pertanian_skala_kecil,0.756
+Amazon,7,kebakaran,tidak_pasti,0.296
+Kalimantan,5,tambang,tambang,0.999
+Kalimantan,12,logging_selektif,logging_selektif,0.91
+Amazon,8,kebakaran,kebakaran,0.952
+Kalimantan,12,logging_selektif,logging_selektif,0.704
+Kalimantan,1,jalan,jalan,0.841
+Cekungan Kongo,9,kebakaran,kebakaran,0.967
+Cekungan Kongo,9,pertanian_skala_kecil,pertanian_skala_kecil,0.727
+Cekungan Kongo,5,pertanian_skala_kecil,pertanian_skala_kecil,0.694
+Cekungan Kongo,5,pertanian_skala_kecil,pertanian_skala_kecil,0.702
+Cekungan Kongo,11,pertanian_skala_besar,tidak_pasti,0.592
+Cekungan Kongo,6,pertanian_skala_kecil,tidak_pasti,0.574
+Cekungan Kongo,11,tambang,tambang,1.0
+Cekungan Kongo,6,banjir,banjir,0.977
+Amazon,9,kebakaran,kebakaran,0.74
+Cekungan Kongo,5,jalan,jalan,0.691
+Amazon,9,kebakaran,tidak_pasti,0.503
+Amazon,2,pertanian_skala_kecil,pertanian_skala_kecil,0.784
+Amazon,2,jalan,logging_selektif,0.754
+Amazon,11,banjir,banjir,0.949
+Cekungan Kongo,6,jalan,jalan,0.85
+Cekungan Kongo,10,jalan,jalan,0.975
+Amazon,6,pertanian_skala_besar,pertanian_skala_besar,0.869
+Kalimantan,10,pertanian_skala_besar,pertanian_skala_kecil,0.744
+Amazon,8,kebakaran,kebakaran,0.718
+Amazon,10,jalan,jalan,0.971
+Kalimantan,8,tambang,tambang,0.997
+Amazon,11,banjir,tidak_pasti,0.583
+Kalimantan,9,pertanian_skala_besar,pertanian_skala_besar,0.983
+Amazon,6,logging_selektif,logging_selektif,0.877
+Kalimantan,7,pertanian_skala_besar,pertanian_skala_besar,0.844
+Amazon,6,pertanian_skala_besar,pertanian_skala_kecil,0.739
+Kalimantan,8,banjir,banjir,0.97
+Cekungan Kongo,1,jalan,jalan,0.86
+Amazon,9,jalan,jalan,0.689
+Amazon,4,banjir,banjir,0.743
+Amazon,10,pertanian_skala_besar,pertanian_skala_besar,0.72
+Kalimantan,1,logging_selektif,logging_selektif,0.797
+Cekungan Kongo,3,logging_selektif,logging_selektif,0.837
+Kalimantan,9,banjir,banjir,0.91
+Kalimantan,5,kebakaran,kebakaran,0.959
+Amazon,7,kebakaran,kebakaran,0.917
+Kalimantan,8,jalan,tidak_pasti,0.559
+Amazon,11,pertanian_skala_besar,pertanian_skala_kecil,0.691
+Amazon,8,kebakaran,kebakaran,0.999
+Amazon,9,banjir,banjir,0.827
+Cekungan Kongo,4,banjir,tidak_pasti,0.541
+Cekungan Kongo,1,pertanian_skala_kecil,pertanian_skala_kecil,0.749
+Amazon,10,kebakaran,kebakaran,0.89
+Kalimantan,12,tambang,tambang,0.992
+Amazon,10,jalan,jalan,0.925
+Kalimantan,10,banjir,banjir,0.996
+Cekungan Kongo,7,pertanian_skala_kecil,tidak_pasti,0.547
+Kalimantan,2,tambang,tambang,0.979
+Kalimantan,6,tambang,tambang,0.994
+Cekungan Kongo,11,tambang,tambang,1.0
+Cekungan Kongo,6,pertanian_skala_kecil,pertanian_skala_kecil,0.754
+Cekungan Kongo,10,logging_selektif,logging_selektif,0.648
+Kalimantan,6,logging_selektif,logging_selektif,0.938
+Kalimantan,11,tambang,tambang,0.972
+Amazon,12,pertanian_skala_kecil,pertanian_skala_kecil,0.711
+Amazon,1,jalan,jalan,0.961
+Cekungan Kongo,4,pertanian_skala_kecil,tidak_pasti,0.565
+Kalimantan,6,jalan,jalan,0.959
+Cekungan Kongo,11,pertanian_skala_kecil,pertanian_skala_kecil,0.733
+Cekungan Kongo,7,jalan,tidak_pasti,0.334
+Amazon,5,banjir,banjir,0.787
+Kalimantan,4,tambang,tambang,1.0
+Cekungan Kongo,8,pertanian_skala_kecil,tidak_pasti,0.587
+Amazon,12,logging_selektif,tidak_pasti,0.523
+Amazon,8,logging_selektif,tidak_pasti,0.58
+Cekungan Kongo,5,banjir,banjir,0.996
+Amazon,10,banjir,banjir,0.878
+Cekungan Kongo,1,logging_selektif,tidak_pasti,0.441
+Cekungan Kongo,12,pertanian_skala_kecil,pertanian_skala_kecil,0.668
+Amazon,8,pertanian_skala_besar,tidak_pasti,0.558
+Cekungan Kongo,1,tambang,tambang,0.999
+Kalimantan,4,logging_selektif,logging_selektif,0.815
+Amazon,9,kebakaran,kebakaran,0.954
+Kalimantan,3,pertanian_skala_kecil,pertanian_skala_kecil,0.785
+Amazon,12,banjir,banjir,0.988
+Amazon,10,logging_selektif,logging_selektif,0.637
+Amazon,9,kebakaran,kebakaran,1.0
+Amazon,1,pertanian_skala_besar,pertanian_skala_besar,0.936
+Kalimantan,9,logging_selektif,logging_selektif,0.894

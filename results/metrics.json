@@ -1,0 +1,124 @@
+{
+  "RF": {
+    "0": {
+      "akurasi": 0.8514,
+      "f1_makro": 0.8513
+    },
+    "0.5": {
+      "akurasi": 0.7895,
+      "f1_makro": 0.7887
+    },
+    "0.9": {
+      "akurasi": 0.7524,
+      "f1_makro": 0.7482
+    }
+  },
+  "CNN S1+S2": {
+    "0": {
+      "akurasi": 0.8562,
+      "f1_makro": 0.8562
+    },
+    "0.5": {
+      "akurasi": 0.8419,
+      "f1_makro": 0.8422
+    },
+    "0.9": {
+      "akurasi": 0.7705,
+      "f1_makro": 0.7693
+    }
+  },
+  "CNN S1": {
+    "0": {
+      "akurasi": 0.7952,
+      "f1_makro": 0.7955
+    },
+    "0.5": {
+      "akurasi": 0.7952,
+      "f1_makro": 0.7955
+    },
+    "0.9": {
+      "akurasi": 0.7952,
+      "f1_makro": 0.7955
+    }
+  },
+  "CNN S2": {
+    "0": {
+      "akurasi": 0.839,
+      "f1_makro": 0.8399
+    },
+    "0.5": {
+      "akurasi": 0.8238,
+      "f1_makro": 0.8261
+    },
+    "0.9": {
+      "akurasi": 0.6762,
+      "f1_makro": 0.6778
+    }
+  },
+  "ambang_keyakinan_awan50": {
+    "0.3": {
+      "cakupan": 1.0,
+      "akurasi_berlabel": 0.8419
+    },
+    "0.35": {
+      "cakupan": 0.9962,
+      "akurasi_berlabel": 0.8442
+    },
+    "0.4": {
+      "cakupan": 0.9933,
+      "akurasi_berlabel": 0.8466
+    },
+    "0.45": {
+      "cakupan": 0.9838,
+      "akurasi_berlabel": 0.8509
+    },
+    "0.5": {
+      "cakupan": 0.9705,
+      "akurasi_berlabel": 0.8557
+    },
+    "0.55": {
+      "cakupan": 0.9133,
+      "akurasi_berlabel": 0.8749
+    },
+    "0.6": {
+      "cakupan": 0.861,
+      "akurasi_berlabel": 0.8927
+    },
+    "0.65": {
+      "cakupan": 0.7952,
+      "akurasi_berlabel": 0.9102
+    },
+    "0.7": {
+      "cakupan": 0.7219,
+      "akurasi_berlabel": 0.9288
+    },
+    "0.75": {
+      "cakupan": 0.639,
+      "akurasi_berlabel": 0.9463
+    },
+    "0.8": {
+      "cakupan": 0.5552,
+      "akurasi_berlabel": 0.9571
+    },
+    "0.85": {
+      "cakupan": 0.479,
+      "akurasi_berlabel": 0.9742
+    },
+    "0.9": {
+      "cakupan": 0.4019,
+      "akurasi_berlabel": 0.9858
+    },
+    "0.95": {
+      "cakupan": 0.3086,
+      "akurasi_berlabel": 0.9969
+    }
+  },
+  "_info": {
+    "seed": 0,
+    "n_train_per_kelas": 400,
+    "n_test_per_kelas": 150,
+    "epochs": 15,
+    "waktu_detik": 361.3,
+    "catatan": "Data sintetis; hasil tidak mewakili akurasi pada citra Sentinel nyata."
+  }
+}
