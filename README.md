@@ -1,3 +1,8 @@
+| **Nama** | Qonita Adzkiatul Mardiyah |
+|---|---|
+| **NPM** | G1A023086 |
+
+
 # Klasifikasi Driver Deforestasi dari Alert Satelit (Sentinel-1 + Sentinel-2)
 
 Studi kasus berdasarkan seminar **Dr. Bart Slachter (Wageningen University and Research)** tentang
